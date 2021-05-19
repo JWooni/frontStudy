@@ -1,4 +1,4 @@
-# Frontend Study
+# Front-end Study
 
 프론트 공부중입니다. <br>
 
